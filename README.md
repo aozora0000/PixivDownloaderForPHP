@@ -62,5 +62,5 @@ __define("LOGIN_PASS","");__
 
 __define("JSON_URI",ROOT_DIR."/test.json");__
 
-* Setting folder & query keywords.
+* Setting folder & query keywords from JSON or OBJECT FORMAT.
 * フォルダー設定と検索キーワードをJSON形式かオブジェクト形式で入力出来ます。
